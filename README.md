@@ -1,1 +1,1 @@
-*site is live on* -> http://reynas.me/zoho-clone
+*site is live on* -> http://reynascodes.com/zoho-clone
