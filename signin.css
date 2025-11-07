@@ -1,0 +1,68 @@
+body{
+background-image: url(assets/img/l-p.png) ;
+background-size:cover ;
+background-repeat: no-repeat;
+height: 100vh;
+margin: 0px;
+padding: 0px;
+position:relative;
+}
+
+.sponsors {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: rgb(168, 214, 16);}
+
+.lwrapper{
+display: flex;
+justify-content:center;
+align-items: center;
+height: 100vh;
+}
+
+
+
+.login{
+    backdrop-filter: blur(15px);
+    border-style: double;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-radius:  20px;
+    margin :10px;
+    padding: 20px;
+    height: 190px;
+    width: 300px;
+}
+
+h1{
+text-align: center;
+margin-bottom: 20px;
+margin-top :20px;
+} 
+
+forms{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+input{
+    margin: 2px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: solid 1px black;
+
+}
+
+button{
+    padding: 5px;
+    background-color:rgb(4, 201, 241);
+    
+}
+button:hover{
+background-color: greenyellow;
+
+}
+
+                  
