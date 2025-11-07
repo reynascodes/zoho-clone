@@ -259,16 +259,15 @@
     }
 
     
-    @media (max-width: 768px) {
+    /* @media (max-width: 768px) {
       .about-section {
         flex-direction: column;
         text-align: center;
       }
-
       .about-image {
         margin-top: 20px;
       }
-    }
+    } */
      
          
 
