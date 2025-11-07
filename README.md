@@ -1,1 +1,1 @@
-Site is live on -> reynas.me/zoho-clone
+*site is live on* -> http://reynas.me/zoho-clone
